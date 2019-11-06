@@ -6,7 +6,7 @@ repository contains the starter files for the course project assignment in Compu
 ## Summary
 This project assignment invites you to work in individually or in teams to implement a
 multi-agent/robot system for an application of your choice.
-Available for download at the course website [course
+Available for download at the [course
 website](http://www.cs.allegheny.edu/sites/jjumadinova/teaching/311/labs.html), the carefully formatted assignment sheet for this project provides more details
 about the steps that a computer scientist should take to complete this
 assignment.

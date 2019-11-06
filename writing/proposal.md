@@ -1,2 +1,2 @@
 # Project Proposal
-# Group members
+# Team members

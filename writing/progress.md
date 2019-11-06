@@ -1,2 +1,2 @@
 # Progress report
-# Group members
+# Team members
